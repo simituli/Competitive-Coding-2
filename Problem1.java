@@ -1,3 +1,9 @@
+/*
+Time Complexity: O(n)
+Space Complexity: worst case --> O(n)
+best case: O(1)
+Average: O(n
+*/
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
